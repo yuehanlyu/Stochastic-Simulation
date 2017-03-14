@@ -3,7 +3,8 @@ package bloodbank;
 /**
  * This class represents a donor in the bloodbank system.
  *
- * @author s104454
+ * @author s104454 Michael 
+ *
  */
 public class Donor {
 
