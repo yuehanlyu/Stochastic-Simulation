@@ -1,7 +1,7 @@
 package bloodbank;
 
 /**
- * @author s104454
+ * @author s104454 Michiel Paus
  */
 
 public class Event {
